@@ -1,0 +1,298 @@
+.nav2 {
+	background-color: white;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.nav {
+	background-color: #252525;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.a-one {
+	text-decoration: none;
+	color: #6187A2;
+}
+
+.a-one:hover {
+	color: white;
+}
+
+.list-one {
+	list-style: none;
+}
+
+.list-one>li {
+	margin-left: 15px;
+}
+
+.list-one>li:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.header-left {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.header-right {
+	display: inline-block;
+	color: #6187A2;
+	position: relative;
+	right: -590px;
+}
+
+.list-one>li {
+	display: inline-block;
+}
+
+.img-logo {
+	height: 55px;
+	line-height: 55px;
+	width: 145px;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.jie {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	color: #D09E6E;
+}
+
+.sousuo {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	right: -230px;
+}
+
+.sstext {
+	padding:10px;
+	height: 35px;
+	font-size: 15px;
+	width: 580px;
+	border: 2px #FC3737 solid;
+}
+.ssbtn {
+	height: 41px;
+	background-color: #FC3737;
+	border: 0px #FC3737 solid;
+	color: white;
+	width: 115px;
+	height:59px;
+	font-size: 17px;
+}
+
+.ssbtn:hover {
+	cursor: pointer;
+}
+
+.trmen {
+	color: white;
+	background-color: #FC3737;
+	width: 200px;
+	line-height: 30px;
+	cursor: pointer;
+	font-weight: bold;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	margin-left: 330px;
+}
+
+.nav-list {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav-list>li {
+	display: inline-block;
+	margin-right: 50px;
+	color: #7C6294;
+	font-weight: bold;
+}
+
+.nav-list>li:hover {
+	color: black;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.list1 {
+	display: inline-block;
+}
+
+.ke {
+	position: relative;
+	left: 60px;
+	color: #FC3737;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.zsdiv {
+	background-color: white;
+	position: relative;
+	margin-left: 370px;
+	width: 1100px;
+	height: 550px;
+}
+
+.a {
+	position: absolute;
+	left: 30px;
+	top: 15px;
+}
+
+.zp {
+	padding-left: 30px;
+	padding-top: 50px;
+}
+
+.js {
+	width: 660px;
+	position: absolute;
+	top: 0px;
+	left: 430px;
+}
+
+.name {
+	display: inline-block;
+}
+
+c {
+	margin-left: 310px;
+}
+
+.sjjj {
+	background-color: #F3F3F3;
+	width: 625px;
+}
+
+.sjj {
+	padding: 5px;
+	padding-left: 10px;
+	height: 160px;
+}
+
+.time {
+	cursor: pointer;
+	background-color: #FC3737;
+	color: white;
+	border: 1px #FC3737 solid;
+	font-size: 17px;
+	height: 40px;
+	font-weight: bold;
+}
+
+.time:option {
+	font-weight: bold;
+	border: 1px #FC3737 solid;
+	background-color: white;
+	color: #FC3737;
+	cursor: pointer;
+}
+
+.money {
+	position:relative;
+	top:15px;
+	display: inline-block;
+	border:1px #FC3737 solid;
+	width: 130px;
+	color: #DF3234;
+	font-size:18px;
+	font-weight: bolder;
+	text-align: center;
+	margin-left: 60px;
+}
+
+.hour {
+	margin-left: 30px;
+	font-size: 20px;
+	width: 100px;
+	border: 1px #FC3737 solid;
+	font-size: 17px;
+	height: 40px;
+	font-weight: bold;
+}
+
+.zybtn {
+	cursor: pointer;
+	color: white;
+	background-color: #DF3234;
+	border: 1px #DF3234 solid;
+	margin-top: 20px;
+	font-size: 18px;
+	line-height: 40px;
+	font-weight: bold;
+	height: 40px;
+	width: 200px;
+	height: 40px
+}
+
+.xq {
+	background-color: white;
+	display: inline-block;
+	position: relative;
+	margin-top: 20px;
+	width: 1100px;
+	left: 370px;
+}
+
+.dpxx {
+	display: inline-block;
+	padding-left: 20px;
+	margin-top: 20px;
+	position: relative;
+}
+
+.zhxx {
+	display: inline-block;
+	margin:20px;
+	position: relative;
+	width: 1100px;
+}
+
+.weibu {
+	background-color: white;
+	position: relative;
+	margin-top:40px;
+	margin-left: -8px;
+	margin-right: -8px;
+	height: 200px;
+}
+
+.list {
+	list-style-type: none;
+}
+
+.list>li {
+	display: inline-block;
+}
+.list1{
+	 list-style-type: none;
+}
+.list1>li{
+	font-size: 18px;
+	color: #787878;
+}
+.list2{
+	 list-style-type: none;
+}
+.list2>li{
+	display: inline-block;
+	margin-left:130px;
+	font-size: 18px;
+	color: #787878;
+}

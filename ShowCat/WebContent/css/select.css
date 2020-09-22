@@ -1,0 +1,537 @@
+.nav2 {
+	background-color: white;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.nav {
+	background-color: #252525;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.a-one {
+	text-decoration: none;
+	color: #6187A2;
+}
+
+.a-one:hover {
+	color: white;
+}
+
+.list-one {
+	list-style: none;
+}
+
+.list-one>li {
+	margin-left: 15px;
+}
+
+.list-one>li:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.header-left {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.header-right {
+	display: inline-block;
+	color: #6187A2;
+	position: relative;
+	right: -590px;
+}
+
+.list-one>li {
+	display: inline-block;
+}
+
+.img-logo {
+	height: 55px;
+	line-height: 55px;
+	width: 145px;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.jie {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	color: #D09E6E;
+}
+
+.sousuo {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	right: -230px;
+}
+.sstext {
+	padding:10px;
+	height: 35px;
+	font-size: 15px;
+	width: 580px;
+	border: 2px #FC3737 solid;
+}
+.ssbtn {
+	height: 41px;
+	background-color: #FC3737;
+	border: 0px #FC3737 solid;
+	color: white;
+	width: 115px;
+	height:59px;
+	font-size: 17px;
+}
+.trmen {
+	color: white;
+	background-color: #FC3737;
+	width: 200px;
+	line-height: 30px;
+	cursor: pointer;
+	font-weight: bold;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	margin-left: 330px;
+}
+
+.nav-list {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav-list>li {
+	display: inline-block;
+	color: #7C6294;
+	margin-right: 50px;
+	font-weight: bold;
+}
+
+.nav-list>li:hover {
+	color: black;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.list1 {
+	display: inline-block;
+}
+
+.ke {
+	position: relative;
+	left: 60px;
+	color: #FC3737;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.dt {
+	background-color: white;
+	margin-left: 320px;
+	width: 1200px;
+	height: 230px;
+}
+
+.zhdt {
+	padding-top: 20px;
+	margin-left: 20px;
+}
+
+.rmdy {
+	position: absolute;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
+	color: #888888;
+	margin-left: 20px
+}
+
+.cfbtn {
+	position: absolute;
+	margin-left: 120px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/cfbtn.png);
+}
+
+.cfbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.lolbtn {
+	position: absolute;
+	margin-left: 240px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/lolbtn.png);
+}
+
+.lolbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.jdqsbtn {
+	position: absolute;
+	margin-left: 360px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/jdqsbtn.png);
+}
+
+.jdqsbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.nzbtn {
+	position: absolute;
+	margin-left: 480px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/nzbtn.png);
+}
+
+.nzbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.qqfcbtn {
+	position: absolute;
+	margin-left: 600px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/qqfcbtn.png);
+}
+
+.qqfcbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.csbtn {
+	position: absolute;
+	margin-left: 720px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/csbtn.png);
+}
+
+.csbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.gtabtn {
+	position: absolute;
+	margin-left: 840px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/gtabtn.png);
+	margin-left: 840px;
+}
+
+.gtabtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.rmsy {
+	position: absolute;
+	display: inline-block;
+	margin-top: 60px;
+	margin-left: 20px;
+	color: #888888;
+	margin-left: 20px
+}
+
+.wzrysbtn {
+	position: absolute;
+	margin-left: 120px;
+	margin-top: 40px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/wzrysbtn.png);
+	width: 105px;
+}
+
+.wzrysbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.hyrzsbtn {
+	position: absolute;
+	margin-left: 240px;
+	margin-top: 40px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/hyrzsbtn.png);
+}
+
+.hyrzsbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.cfsbtn {
+	position: absolute;
+	margin-left: 360px;
+	margin-top: 40px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/cfsbtn.png);
+}
+
+.cfsbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.qqfcsbtn {
+	position: absolute;
+	margin-left: 480px;
+	margin-top: 40px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/qqfcsbtn.png);
+}
+
+.qqfcsbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.hpjysbtn {
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 40px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/hpjysbtn.jpg);
+}
+
+.hpjysbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.qqdzzsbtn {
+	position: absolute;
+	margin-left: 720px;
+	margin-top: 40px;
+	width: 105px;
+	height: 60px;
+	background-color: white;
+	border: 1px #F5F5F5 solid;
+	cursor: pointer;
+	background-image: url(../image/qqdzzsbtm.png);
+}
+
+.qqdzzsbtn:hover {
+	border: 1px #FC3737 solid;
+	background-image: url("");
+}
+
+.listone {
+	position: relative;
+	margin-top: 120px;
+}
+
+.listone>ul {
+	list-style-type: none;
+}
+
+.listone>ul>li {
+	display: inline-block;
+	margin-left: 50px;
+	color: #828282;
+}
+
+.chaxun {
+	background-color: white;
+	margin-top: 3px;
+	margin-left: 320px;
+	width: 1200px;
+	height: 100px;
+	margin-left: 320px;
+}
+
+.lx {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 20px;
+	color: #888888;
+	margin-left: 20px;
+}
+.ss {
+	display: inline-block;
+	position: relative;
+	margin-left: 80px;
+}
+
+.ssk {
+	height: 30px;
+	font-size: 15px;
+	padding:5px;
+	border: 1px #D0D0D0 solid;
+}
+
+.ssb {
+	height: 41px;
+	background-color: #FC3737;
+	border: 0px #FC3737 solid;
+	color: white;
+	width: 105px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+.px {
+	background-color: white;
+	margin-top: 10px;
+	margin-left: 320px;
+	width: 1200px;
+	margin-left: 320px;
+}
+
+.px>ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.px>ul>li {
+	width: 120px;
+	line-height: 60px;
+	color: #A3788E;
+	text-align: center;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.px>ul>li:hover {
+	background-color: #FC3737;
+	color: white;
+}
+
+.wei {
+	background-color: white;
+	position: relative;
+	top: 0px;
+	margin-left: -8px;
+	margin-right: -8px;
+	height: 200px;
+}
+
+.list3 {
+	list-style-type: none;
+}
+
+.list3>li {
+	display: inline-block;
+}
+
+.zsq {
+	background-color: white;
+	margin-top: 10px;
+	width: 980px;
+	margin-left: 420px;
+	height: 1320px;
+}
+
+.sp {
+	cursor: pointer;
+}
+
+.sp:hover {
+	background-color: #FAFAFA;
+}
+
+.btns {
+	background-color: white;
+	margin-top: 10px;
+	margin-left: 420px;
+	width: 940px;
+	padding: 20px;
+}
+
+.btns>button {
+	font-size:15px;
+	background-color: white;
+	border: 1px #FC3737 solid;
+	cursor: pointer;
+}
+.btns>button:hover {
+	background-color: #FC3737;
+	color: white;	
+}
+.yema{
+	width:50px;
+	font-size:17px;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-align: center;
+}
+.ljzy{
+	line-height:25px;
+	width:150px;
+	margin-top:5px;
+	font-size:15px;
+	border: 1px #FC3737 solid;
+	background-color: white;
+	color: #FC3737;
+	cursor: pointer;
+}
+.ljzy:hover{
+	background-color: #FC3737;
+	color: white;
+}

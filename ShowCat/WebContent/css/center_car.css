@@ -1,0 +1,217 @@
+.nav2 {
+	background-color: white;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.nav {
+	background-color: #252525;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.a-one {
+	text-decoration: none;
+	color: #6187A2;
+}
+
+.a-one:hover {
+	color: white;
+}
+
+.list-one {
+	list-style: none;
+}
+
+.list-one>li {
+	margin-left: 15px;
+	display: inline-block;
+}
+
+.list-one>li:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.header-left {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.header-right {
+	display: inline-block;
+	color: #6187A2;
+	position: relative;
+	right: -590px;
+}
+
+.img-logo {
+	height: 55px;
+	line-height: 55px;
+	width: 145px;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.jie {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	color: #D09E6E;
+}
+
+.sousuo{
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	right: -230px;
+}
+.sstext {
+	padding:10px;
+	height: 35px;
+	font-size: 15px;
+	width: 580px;
+	border: 2px #FC3737 solid;
+}
+.ssbtn {
+	height: 41px;
+	background-color: #FC3737;
+	border: 0px #FC3737 solid;
+	color: white;
+	width: 115px;
+	height:59px;
+	font-size: 17px;
+}
+
+.ssbtn:hover {
+	cursor: pointer;
+}
+
+.trmen {
+	color: white;
+	background-color: #FC3737;
+	width: 200px;
+	line-height: 30px;
+	cursor: pointer;
+	font-weight: bold;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	margin-left: 330px;
+}
+
+.nav-list {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav-list>li {
+	display: inline-block;
+	color: #7C6294;
+	margin-right: 50px;
+	font-weight: bold;
+}
+
+.nav-list>li:hover {
+	color: black;
+	cursor: pointer;
+}
+
+.list1 {
+	display: inline-block;
+}
+
+.ke {
+	position: relative;
+	left: 60px;
+	color: #FC3737;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.grzxnav {
+	display: inline-block;
+	background-color: white;
+	width: 200px;
+	position: relative;
+	margin-left: 385px;
+}
+
+.zklist {
+	font-size: 15px;
+	list-style-type: none;
+	text-indent: -10px;
+	color: #999999;
+	cursor: pointer;
+}
+
+.zklist>li {
+	margin-bottom: 15px;
+}
+
+.hzlist {
+	font-size: 15px;
+	list-style-type: none;
+	text-indent: -10px;
+	color: #999999;
+}
+
+.hzlist>li {
+	margin-bottom: 15px;
+}
+
+.sc{
+	display:inline-block;
+	position: absolute;
+	background-color: white;
+	left: 600px;
+	top: 215px;
+	width: 900px;
+}
+.btns {
+	background-color: white;
+}
+.btns>button {
+	font-size:15px;
+	background-color: white;
+	border: 1px #F96658 solid;
+	cursor: pointer;
+}
+.btns>button:hover {
+	background-color: #F96658;
+	color: white;	
+}
+.yema{
+	width:50px;
+	font-size:17px;
+	width: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.table{
+	width: 100%;
+	margin-top: 40px;
+}
+.wei {
+	background-color: white;
+	position: relative;
+	top: 800px;
+	margin-left: -8px;
+	margin-right: -8px;
+	height: 200px;
+}
+
+.list3 {
+	list-style-type: none;
+}
+
+.list3>li {
+	display: inline-block;
+}

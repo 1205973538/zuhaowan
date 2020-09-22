@@ -1,0 +1,45 @@
+.nav {
+	background-color: #252525;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.a-one {
+	text-decoration: none;
+	color: #6187A2;
+}
+
+.a-one:hover {
+	color: white;
+}
+
+.list-one {
+	list-style: none;
+
+}
+.header-left {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.header-right {
+	display: inline-block;
+	color: #6187A2;
+	position: relative;
+	right: -590px;
+}
+
+
+.list-one>li {
+	margin-left: 15px;
+	display: inline-block;
+}
+.list-one>li:hover {
+	color: white;
+	cursor: pointer;
+}
+.laaa:hover{
+	color: red;
+}

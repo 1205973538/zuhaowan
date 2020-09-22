@@ -1,0 +1,582 @@
+@charset "UTF-8";
+
+.nav {
+	background-color: #252525;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.a-one {
+	text-decoration: none;
+	color: #6187A2;
+}
+
+.a-one:hover {
+	color: white;
+}
+
+.list-one {
+	list-style: none;
+}
+
+.list-one>li {
+	margin-left: 15px;
+	display: inline-block;
+}
+
+.list-one>li:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.header-left {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.header-right {
+	display: inline-block;
+	color: #6187A2;
+	position: relative;
+	right: -590px;
+}
+
+.nav2 {
+	background-color: white;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+.img-logo {
+	height: 55px;
+	line-height: 55px;
+	width: 145px;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.jie {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	color: #D09E6E;
+}
+
+.sousuo {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	right: -230px;
+}
+
+.sstext {
+	padding:10px;
+	height: 35px;
+	font-size: 15px;
+	width: 580px;
+	border: 2px #FC3737 solid;
+}
+.ssbtn {
+	height: 41px;
+	background-color: #FC3737;
+	border: 0px #FC3737 solid;
+	color: white;
+	width: 115px;
+	height:59px;
+	font-size: 17px;
+}
+.ssbtn:hover {
+	cursor: pointer;
+}
+
+.trmen {
+	color: white;
+	background-color: #FC3737;
+	width: 200px;
+	line-height: 30px;
+	cursor: pointer;
+	font-weight: bold;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	margin-left: 330px;
+}
+
+.nav-list {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav-list>li {
+	display: inline-block;
+	color: #7C6294;
+	margin-right: 50px;
+	font-weight: bold;
+}
+
+.nav-list>li:hover {
+	color: black;
+	cursor: pointer;
+}
+
+.list1 {
+	display: inline-block;
+}
+
+.ke {
+	position: relative;
+	left: 60px;
+	color: #FC3737;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.btns {
+	padding: 15px;
+}
+
+.btn {
+	background-color: white;
+	color: #989898;
+	border: 1px black solid;
+	line-height: 25px;
+	width: 75px;
+}
+
+.btn:hover {
+	cursor: pointer;
+	background: #FC3737;
+	color: white;
+}
+
+.zhuanqv {
+	list-style-type: none;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+}
+
+.zhuanqv>li {
+	margin: 0px;
+	width: 200px;
+}
+
+.zhuanqv>li>button {
+	line-height: 50px;
+	background-color: white;
+	color: #A5A5A5;
+	width: 200px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.zhuanqv>li>button:hover {
+	background-color: #FC3737;
+	color: white;
+	font-weight: bold;
+}
+
+.xcl {
+	position: relative;
+	top: -38px;
+}
+
+.xcl-left {
+	display: inline-block;
+	position: relative;
+	margin-left: 330px;
+	border: 1px black solid;
+}
+
+.lun {
+	display: inline-block;
+	position: relative;
+	top: 30px;
+	left: 10px;
+}
+
+.btnshang {
+	cursor: pointer; position : absolute;
+	border: none;
+	top: 170px;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	height: 60px;
+	width: 30px;
+	font-size: 20px;
+	background-color: black;
+	position: absolute;
+}
+
+.btnxia {
+	cursor: pointer;
+	position: absolute;
+	right: 1px;
+	border: none;
+	top: 170px;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	height: 60px;
+	width: 30px;
+	font-size: 20px;
+}
+
+.btnshang:hover {
+	background-color: black;
+	opacity: 1;
+}
+
+.btnxia:hover {
+	background-color: black;
+	opacity: 1;
+}
+
+.lunList {
+	position: absolute;
+	left: 4;
+	top: 314px;
+	list-style: none;
+	background-color: black;
+	opacity: 0.5;
+	width: 680px;
+}
+
+.lunList>li{
+	cursor: pointer;
+	display: inline;
+	line-height: 50px;
+	margin-left: 30px;
+	width: 100px;
+	line-height: 50px;
+	color: #4E87A2;
+}
+.lunList>li:first-child {
+	margin-left: -15px;
+}
+.lunList>li:hover{
+	color: white;
+}
+.dj {
+	background-image: url(../image/bei.png);
+	background-repeat: no-repeat;
+	border: 1px black solid;
+	display: inline-block;
+	position: relative;
+	width: 240px;
+	left: 18px;
+	top: 10px;
+}
+
+.dj>img {
+	position: relative;
+	padding-left: 85px;
+	padding-top: 20px;
+}
+
+.dlbtn {
+	position: relative;
+	left: 10px;
+	background-color: #FC3737;
+	color: white;
+	border: none;
+	border: 1px #FC3737 solid;
+	cursor: pointer;
+	width: 100px;
+	line-height: 30px;
+}
+
+.zcbtn {
+	position: relative;
+	left: 10px;
+	background-color: white;
+	border: 1px silver solid;
+	color: silver;
+	cursor: pointer;
+	width: 100px;
+	line-height: 30px;
+}
+
+.zcbtn:hover {
+	background-color: #555353;
+	border: 1px silver solid;
+	color: white;
+}
+
+.list2 {
+	list-style-type: none;
+	position: relative;
+	padding: 10px;
+	width: auto;
+	color: #888888;
+	font-size: 14px;
+}
+
+.xzbtn {
+	position: relative;
+	left: 10px;
+	background-color: #FC3737;
+	color: white;
+	border: none;
+	border: 1px #FC3737 solid;
+	cursor: pointer;
+	line-height: 30px;
+	font-weight: bold;
+	width: 213px;
+	margin-bottom: 10px;
+}
+
+.xrzx {
+	background-image: url(../image/ez.png);
+	background-repeat: no-repeat;
+	position: relative;
+	height: 120px;
+	color: white;
+	display: inline-block;
+	width: 390px;
+	margin-left: 325px;
+	margin-top: 10px;
+}
+
+.mxzq {
+	background-image: url(../image/kt.png);
+	background-repeat: no-repeat;
+	height: 120px;
+	color: white;
+	display: inline-block;
+	width: 390px;
+	margin-top: 10px;
+	position: relative;
+	margin-left: -90px;
+}
+
+.zszq {
+	background-image: url(../image/drj.png);
+	background-repeat: no-repeat;
+	height: 120px;
+	color: white;
+	display: inline-block;
+	width: 390px;
+	position: relative;
+	margin-left: -90px;
+	margin-top: 10px;
+}
+
+.xsyd {
+	background-image: url(../image/sj.png);
+	background-repeat: no-repeat;
+	height: 120px;
+	color: white;
+	display: inline-block;
+	width: 390px;
+	position: relative;
+	margin-left: -90px;
+	margin-top: 10px;
+}
+
+.xp {
+	position: relative;
+	padding: 20px;
+}
+
+.xsyd:hover {
+	cursor: pointer;
+	width: 410px;
+	height: 140px;
+	transform: scale(1.2);
+}
+
+.xrzx:hover {
+	cursor: pointer;
+	width: 410px;
+	height: 140px;
+	transform: scale(1.2);
+}
+
+.mxzq:hover {
+	cursor: pointer;
+	width: 410px;
+	height: 140px;
+	transform: scale(1.2);
+}
+
+.zszq:hover {
+	cursor: pointer;
+	width: 410px;
+	height: 140px;
+	transform: scale(1.2);
+}
+
+.mfzq {
+	top: 350px;
+	margin-left: 330px;
+}
+
+.yxlm {
+	display: inline-block;
+}
+
+.mstext {
+	width: 230px;
+	text-align: center;
+	position: absolute;
+	margin-top: -60px;
+	color: #BEB2B2;
+}
+
+.qqfc, .swxf, .cs, .cf {
+	display: inline-block;
+	position: relative;
+	margin-left: 15px;
+}
+
+.yxlm:hover {
+	cursor: pointer;
+}
+
+.qqfc:hover {
+	cursor: pointer;
+}
+
+.swxf:hover {
+	cursor: pointer;
+}
+
+.cs:hover {
+	cursor: pointer;
+}
+
+.cf:hover {
+	cursor: pointer;
+}
+
+.qqfctext {
+	width: 230px;
+	text-align: center;
+	position: absolute;
+	margin-top: -60px;
+	color: #BEB2B2;
+}
+
+.swxftext {
+	width: 230px;
+	text-align: center;
+	position: absolute;
+	margin-top: -60px;
+	color: #BEB2B2;
+}
+
+.cstext {
+	width: 230px;
+	text-align: center;
+	position: absolute;
+	margin-top: -60px;
+	color: #BEB2B2;
+}
+
+.cftext {
+	width: 230px;
+	text-align: center;
+	position: absolute;
+	margin-top: -60px;
+	color: #BEB2B2;
+}
+
+.yx {
+	width: 270px;
+	display: inline-block;
+	position: relative;
+	width: 285px;
+}
+
+.yxtext {
+	width: 270px;
+	text-align: center;
+	margin-top: -23px;
+}
+
+.yx:hover {
+	cursor: pointer;
+}
+
+.wb {
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+	width: 285px;
+}
+
+.wbtext {
+	width: 270px;
+	text-align: center;
+	margin-top: -23px;
+}
+
+.wb:hover {
+	cursor: pointer;
+}
+
+.xr {
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+	width: 285px;
+}
+
+.xrtext {
+	width: 270px;
+	text-align: center;
+	margin-top: -23px;
+}
+
+.xr:hover {
+	cursor: pointer;
+}
+
+.zj {
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+	width: 285px;
+}
+
+.zjtext {
+	width: 270px;
+	text-align: center;
+	margin-top: -23px;
+}
+
+.zj:hover {
+	cursor: pointer;
+}
+
+.hd {
+	margin-left: 330px;
+	margin-top: 150px;
+}
+
+.wei {
+	background-color: white;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+	height: 200px;
+}
+
+.list3 {
+	list-style-type: none;
+}
+
+.list3>li {
+	display: inline-block;
+}

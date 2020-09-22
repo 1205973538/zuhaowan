@@ -1,0 +1,124 @@
+body{
+	background-image: url(../image/b.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px,1100px;
+}
+.nav2 {
+	background-color: white;
+	position: relative;
+	top: -10px;
+	margin-left: -8px;
+	margin-right: -8px;
+	font-size: 15px;
+}
+
+
+.nav-list {
+	list-style-type: none;
+	display: inline-block;
+	position: relative;
+	margin-left:600px;
+}
+
+.nav-list>li {
+	display: inline-block;
+	color: #B57E66;
+	margin-right: 15px;
+	font-size: 18px;
+}
+
+.nav-list>li:hover {
+	cursor: pointer;
+}
+
+.img-logo {
+	height: 55px;
+	line-height: 55px;
+	width: 145px;
+}
+
+.logo {
+	margin-top: 30px;
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.jie {
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	color: #666666;
+}
+.wei {
+	background-color: white;
+	position: relative;
+	margin-left: -8px;
+	margin-right: -8px;
+	top: 700px;
+	height: 200px;
+}
+
+.list3 {
+	list-style-type: none;
+}
+
+.list3>li {
+	display: inline-block;
+}
+.dlk{
+	width:350px; 
+	padding: 30px;
+	box-shadow: darkcyan 1px 1px 10px;
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 130px;
+	right:400px;
+}
+.userName{
+	text-indent: 30px;
+	width: 340px;
+	margin-top: 20px;
+	line-height:30px;
+	font-size: 17px;
+}
+
+.pwd{
+	text-indent: 30px;
+	width: 340px;
+	margin-top: 20px;
+	line-height:30px;
+	font-size: 17px;
+}
+
+.dlbtn{
+	margin-top: 30px;
+	border: none;
+	background-color: #FC3737;
+	color: white;
+	width: 340px;
+	height: 40px;
+	font-size: 15px;
+}
+.dlbtn:hover{
+	cursor: pointer;
+	box-shadow: #FC3737 1px 1px 10px;;
+}
+.hrs{
+	margin-left: 15px;
+}
+hr{
+	margin-top: 20px;
+	display: inline-block;
+}
+.wm{
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	left: 140px;
+}
+.d{
+	cursor: pointer;
+}
+.z{
+	cursor: pointer;
+}
